@@ -97,7 +97,7 @@ function clear_shapes(){
 	while(!squares.length == 0){
 		squares.pop();
 	}
-	while(!circles.length == 0){
+	while(!trangles.length == 0){
 		triangles.pop();
 	}
 }
